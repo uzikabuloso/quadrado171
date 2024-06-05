@@ -1,0 +1,131 @@
+positive_count = 0
+negative_count = 0
+neutral_count = 0
+
+for i in range():
+    num = int(input("Digite um número inteiro: "))
+    if num > 0:
+        positive_count += 1
+    elif num < 0:
+        negative_count += 1
+    else:
+        neutral_count += 1
+
+    print(f"Positivos: {positive_count}")
+    print(f"Negativos: {negative_count}")
+    print(f"Neutros: {neutral_count}")
+
+
+FOR
+
+for i in range(1, 11, 3):
+    print(i)
+
+#Algoritmo "For"
+#Var
+#   contador: inteiro
+#Inicio
+#   Para contador de 1 ate 5 faca
+#      Escreva(contador)
+#   FimPara
+#FimAlgoritmo
+
+
+
+
+
+contador = 0
+while contador < 11:
+    print(contador)
+    contador += 1
+
+#Algoritmo "While"
+#Var
+#   contador: inteiro
+#Inicio
+#   contador <- 1
+#   Enquanto contador <= 5 faca
+#      Escreva(contador)
+#      contador <- contador + 1
+#   FimEnquanto
+#FimAlgoritmo
+
+
+
+
+
+count = 0
+while True:
+    print(count)
+    count += 1
+    if count >= 5:
+        break
+
+#Algoritmo "DoWhile"
+#Var
+#   contador: inteiro
+#Inicio
+#   contador <- 1
+#   Repita
+#      Escreva(contador)
+#      contador <- contador + 1
+#   Ate contador > 5
+#FimAlgoritmo
+
+
+FOR
+
+for i in range(1, 11, 3):
+    print(i)
+
+#Algoritmo "For"
+#Var
+#   contador: inteiro
+#Inicio
+#   Para contador de 1 ate 5 faca
+#      Escreva(contador)
+#   FimPara
+#FimAlgoritmo
+
+
+
+
+
+contador = 0
+while contador < 11:
+    print(contador)
+    contador += 1
+
+#Algoritmo "While"
+#Var
+#   contador: inteiro
+#Inicio
+#   contador <- 1
+#   Enquanto contador <= 5 faca
+#      Escreva(contador)
+#      contador <- contador + 1
+#   FimEnquanto
+#FimAlgoritmo
+
+
+
+
+
+count = 0
+while True:
+    print(count)
+    count += 1
+    if count >= 5:
+        break
+
+#Algoritmo "DoWhile"
+#Var
+#   contador: inteiro
+#Inicio
+#   contador <- 1
+#   Repita
+#      Escreva(contador)
+#      contador <- contador + 1
+#   Ate contador > 5
+#FimAlgoritmo
+
